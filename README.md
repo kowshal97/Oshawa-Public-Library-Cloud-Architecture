@@ -67,7 +67,7 @@ The project delivers a **microservice-based cloud environment** for OPL with str
 ## 🔗 Related Projects
 - [Clinic Management Database](https://github.com/kowshal97/clinic-management-database)  
 - [Online Retail Store Database](https://github.com/kowshal97/Online-Retail-Store-database)  
-- [Assignment 1 – Library & College Systems](https://github.com/kowshal97/Database-design-project-)  
+- [Library & College Systems](https://github.com/kowshal97/Database-design-project-)  
 
 ---
 
